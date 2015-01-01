@@ -84,7 +84,7 @@
         afkRankCheck: "ambassador",
         motdEnabled: false,
         motdInterval: 5,
-        motd: "Temporary Message of the Day",
+        motd: "RealityNetGaming Offical Plug.dj!",
         filterChat: true,
         etaRestriction: false,
         welcome: true,
