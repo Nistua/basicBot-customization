@@ -66,7 +66,7 @@
         cycleGuard: true,
         maximumCycletime: 10,
         timeGuard: true,
-        maximumSongLength: 10,
+        maximumSongLength: 30,
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
@@ -96,7 +96,7 @@
         website: "http://thedarkage.enjin.com/",
         intervalMessages: [],
         messageInterval: 5,
-        songstats: true,
+        songstats: false,
         commandLiteral: "!",
         blacklists: {
             NSFW: "https://rawgit.com/Nistua/basicBot-customization/master/blacklists/ExampleNSFWlist.json",
