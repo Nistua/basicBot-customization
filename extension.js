@@ -56,7 +56,7 @@
         botName: "ConwyBot",
         language: "english",
         chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
-        maximumAfk: 120,
+        maximumAfk: null,
         afkRemoval: true,
         maximumDc: 60,
         bouncerPlus: true,
